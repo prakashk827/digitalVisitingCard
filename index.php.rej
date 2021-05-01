@@ -1,0 +1,9 @@
+diff a/index.php b/index.php	(rejected hunks)
+@@ -183,6 +183,7 @@
+          <meta name = "description" content="We provide online visiting card for your business.Every details in a single page like  business google location, call feature, about the business and  your serviceses.">
+          <meta name = "language" content="English">
+          <meta http-equiv = "Content-Type" content="text/html; UTF-8">
++            <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
+          <!-- Font-icon css-->
+          <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+ 
